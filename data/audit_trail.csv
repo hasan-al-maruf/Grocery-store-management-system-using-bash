@@ -1,0 +1,8 @@
+timestamp,username,action,details,status
+2026-04-21 07:18 PM,maruf2004,APP_START,Application started,SUCCESS
+2026-04-21 07:19 PM,maruf2004,ADD_PRODUCT,Added product 1 (Perfume),SUCCESS
+2026-04-21 07:20 PM,maruf2004,ADD_PRODUCT,Added product 2 (Miswak),SUCCESS
+2026-04-21 07:21 PM,maruf2004,CREATE_ORDER,Order ORD001 created: customer=Sabbir total=1000 BDT,SUCCESS
+2026-04-21 07:23 PM,maruf2004,PROCESS_DELIVERY,Order ORD001 DELIVERED. Revenue=1000 BDT, COGS=1000 BDT,SUCCESS
+2026-04-21 07:23 PM,maruf2004,LOGIN,User logged in,SUCCESS
+2026-04-21 07:23 PM,maruf2004,APP_START,Application started,SUCCESS

@@ -1,0 +1,3 @@
+date,dr_account,cr_account,amount,description,created_by
+2026-04-21,Cash,Sales Revenue,1000,Order ORD001 delivered,maruf2004
+2026-04-21,Cost of Goods Sold,Inventory,1000,Order ORD001 cost of goods,maruf2004
